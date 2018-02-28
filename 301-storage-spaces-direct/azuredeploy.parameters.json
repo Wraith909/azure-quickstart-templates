@@ -6,22 +6,22 @@
       "value": "GEN-UNIQUE-8"
     },
     "existingDomainName": {
-      "value": "contoso.com"
+      "value": "devtest.local"
     },
     "adminUsername": {
-      "value": "AzureAdmin"
+      "value": "S2D.Manager"
     },
     "adminPassword": {
       "value": "GEN-PASSWORD"
     },
     "existingVirtualNetworkName": {
-      "value": "vnet01"
+      "value": "vNet_DevTest"
     },
     "existingVirtualNetworkRGName": {
-      "value": "rg01"
+      "value": "s2d"
     },    
     "existingSubnetName": {
-      "value": "default"
+      "value": "Servers"
     }
   }
 }
